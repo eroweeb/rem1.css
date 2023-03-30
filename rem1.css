@@ -1,0 +1,22 @@
+/**
+* @name Rem Hot
+* @version Auto Update
+* @description Created by 23lollo
+* @author 23lollo
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+:root {
+--themeColor1: #2493DCFF;
+--themeColor2: #8253E5FF;
+--customFont: 'Open Sans';
+--homeImage: url('https://i.imgur.com/89xbpab.gif');
+--homeImageSize: cover;
+--backgroundColor: #887BE564;
+--backgroundImage: url('https://i.imgur.com/7INlTHs.jpg');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.9;
+}
